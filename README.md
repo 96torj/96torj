@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
 
-<!--
-**96torj/96torj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT support student in Montréal (Computing Support DEP) · former kitchen manager · PC builder · private game server admin
 
-Here are some ideas to get you started:
+### 🛠️ Featured project: [RT Kit](https://github.com/96torj/rtkit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I fix and back up PCs on the side. Every job started the same way: save the client's files first, then fix the problem. Doing it by hand in Command Prompt was slow and easy to get wrong, especially on PCs that wouldn't boot.
+
+So I built **RT Kit**, a portable toolkit that runs from a USB drive. One login, and it handles backups to USB or the cloud, virus scans, disk cleanup, network diagnosis and firewall settings. It also installs a nightly cloud backup agent, which turns a one-time repair into an ongoing backup service.
+
+**Built with:** PowerShell · Windows Forms · robocopy · rclone · Task Scheduler · Microsoft Defender
+
+### 🔧 Skills
+
+Windows administration · PowerShell automation · Active Directory · Microsoft 365 / Intune (learning) · TCP/IP & networking · PC hardware · VPS / game server hosting
+
+🌐 English · Français · Tagalog
