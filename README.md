@@ -16,4 +16,4 @@ Windows administration · PowerShell automation · Active Directory · Microsoft
 
 🌐 English · Français · Tagalog
 
-📫 [LinkedIn](https://www.linkedin.com/in/jrt96/)
+📫 [LinkedIn](https://www.linkedin.com/in/jrt96/) · [Portfolio](https://96torj.github.io)
