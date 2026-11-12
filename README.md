@@ -15,3 +15,5 @@ So I built **RT Kit**, a portable toolkit that runs from a USB drive. One login,
 Windows administration · PowerShell automation · Active Directory · Microsoft 365 / Intune (learning) · TCP/IP & networking · PC hardware · VPS / game server hosting
 
 🌐 English · Français · Tagalog
+
+📫 [LinkedIn](https://www.linkedin.com/in/jrt96/)
